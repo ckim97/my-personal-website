@@ -1,19 +1,36 @@
-/*
+
 body {
-    background: black;
+    background: skyblue;
   }
 
 #title {
     text-align: center;
     font-size: 100px;
-    color: yellow;
+    color: black;
 }
 
 h2 {
-    text-align: center;
     font-size: 50px;
-    color: yellow;
+    color: black;
+}
+
+.button {
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+ul, ol {
+    font-size: 15px;
+    color: black;
 
 }
 
-*/
+a {
+    text-decoration: none;
+}
+
+.resources:hover, .button:hover {
+    text-decoration: underline;
+}
