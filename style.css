@@ -1,16 +1,19 @@
+/*
 body {
     background: black;
   }
 
-title {
+#title {
     text-align: center;
     font-size: 100px;
     color: yellow;
 }
 
-h1, h2 {
+h2 {
     text-align: center;
     font-size: 50px;
     color: yellow;
 
 }
+
+*/
