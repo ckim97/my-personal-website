@@ -3,6 +3,8 @@ body {
     background: skyblue;
   }
 
+
+
 #title {
     text-align: center;
     font-size: 100px;
@@ -12,7 +14,11 @@ body {
 h2 {
     font-size: 50px;
     color: black;
+    padding: 5px;
+    margin: 0;
 }
+
+
 
 .button {
     color: red;
@@ -24,6 +30,7 @@ h2 {
 ul, ol {
     font-size: 15px;
     color: black;
+    margin: 0;
 
 }
 
@@ -33,4 +40,18 @@ a {
 
 .resources:hover, .button:hover {
     text-decoration: underline;
+}
+
+.bordered {
+    border: 5px solid black;
+    padding: 5px;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    margin-left: 550px;
+    margin-top: -135px;
+    
+    
 }
