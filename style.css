@@ -36,7 +36,9 @@ a {
 
 .text {
     border: 5px solid black;
-    padding: 5px;
+    margin: 0%;
+    padding: 1%;
+    margin-bottom: 0%;
 }
 
 
@@ -45,7 +47,7 @@ a {
     max-width: 100%;
     padding: 0px;
     border: 5px solid black;
-    margin-left: 88%;
+    margin-left: 90%;
     margin-top: -8%;
 
     
